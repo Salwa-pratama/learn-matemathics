@@ -1,0 +1,167 @@
+🎯Roadmap Belajar Matematika - Dari Dasar Sampai mahir
+
+1. Fondasi Dasar (Basic arithmetic)
+   | Level: Wajib dikuasai 100%
+
+-> Operasi dasar: +, -, x, :
+-> Bilangan bulat, pecahan, desimal
+-> Faktor, kelipatan, KPK, FPB
+-> Bilangan negatif dan positif
+-> Pangkat dan akar sederhana 
+-> Persentase dan rasio
+-> Urutan operasi (aturan kurung)
+
+  | Target: Bisa hitung manual tanpa kalkulator dengan lancar
+
+2. Aljabar Dasar (Pre-Algebra)
+   | Level: Dasar pemrograman, sains, dan statistik
+
+-> Variabel (misal: x, y)
+-> Menyusun dan menyederhanakan ekspresi aljabar
+-> Pemfaktoran (faktorisasi)
+-> Aturan distribusi (misal: a(b+c) = ab + ac)
+-> Persamaan linear 1 variabel (misal: 2x + 5 = 11)
+-> Persamaan dua variabel
+-> Konsep pertidaksamaan
+
+  | Targer: Bisa selesaikan soal dengan variable dan paham manupulasi persamaan
+
+3. Geometri Dasar & Pengukuran
+   | Level: Visualisasi bentuk dan ruang
+
+-> Bangun datar: luas, kelilinng (segitiga, persegi, lingkaran,dll)
+-> bangun ruang: volume, luas permukaan(kubus, balok, tabung, dll)
+-> Teorema Pythagoras
+-> Sudut, garis dan segitiga 
+-> Transformasi (rotasi, translasi, refleksi, dilatasi)
+-> Skala dan peta
+
+   | Target: Memahami dunia fisik dan bisa mengukur apa pun.
+
+4. Statistika dan Probabilitas Dasar
+   | Level: Penting buat analisis data 
+
+-> Mean (rata-rata), median, modus
+-> Range, kuartil, persentil
+-> Representasi data (tabel , diagram batang, pie chart)
+-> Dasar probabilitas (peluang sederhana)
+-> permutasi dan kombinasi sederhana
+
+   | Target: Bisa menganalisis data sehari-hari dan memahami peluang:
+
+5. Aljabar Lanjutan 
+
+   | Level: SMA ke atas, fondasi teknik dan sains
+
+-> Fungsi dan grafik fungsi ( linear, kuadrat, eksponensial, logaritma)
+-> Persamaan kuadrat dan akar-akar persaman
+-> Sistem persamaan linear 2 dan 3 variabel 
+-> Matriks dasar
+-> Polinomial dan faktorisasi lanjutan 
+-> Logaritma dan eksponensial
+
+   | Targer: Mampu memodelkan dan menyelesaikan masalah kompleks
+
+
+6. Trigonometri 
+
+   | Level: Wajib buat teknik, fisika, grafis, geometri
+
+-> Sudut dan pengukuran (derajat & radian)
+-> Rasio trigonometri (sin, cos, tan)
+-> Persamaan trigonometri 
+-> Identitas trigonometri 
+-> Grafik fungsi trigonometri
+-> Penerapan di gelimbang, fisika, GPS, dll.
+
+   | Targer: Paham hubungan dan panjang dalam ruang
+
+7. Kalkulus (calculus)
+   | Level: Fondasi AI, data Science, fisikan, ekonomi, teknik tinggi
+
+-> Limit dan kontinuitas
+-> Turunan (derivatif)
+-> Aplikasi turunan (kecepatan, maksimum-minimum, grafik fungsi)
+-> Integral (luas bawah kurva)
+-> Integral tak tentu dan tentu
+-> Aplikasi integral (volume, luas,fisika)
+-> kalkulus multivariat (turunan persial, integral ganda)
+   | Target: Memahami perubahan, laju, akumulasi, optimasi.
+
+8. Aljabar Linear (Linear Algebra)
+
+   | Level : Otak dari AI dan machine learning
+
+-> Vektor dan operasi vektor 
+-> Matriks dan operasi matriks
+-> Sistem persamaan linear dengan matriks
+-> Determinan dan invers
+-> Ruang vektor, basis dan dimensi
+-> Transformasi linear
+-> Nilai eigen dan vektor eigen 
+
+   | Target: Bisa memecahkan sistem linear dan memahami ruang multidimensi.
+
+9. Statistika dan Probabilitas lanjutan 
+   | Level: Data Science, AI, riset, ekonomi, psikologi
+
+> Distribusi probabilitsa ( Normal, Binomial, Poisson, dll.)
+> inferensi statistik (uji hipotesis, confidence interval)
+> Regresi linear dan korelasi
+> Variasi, deviasi standar
+> Bayes Theorem (Probabilitas bersyarat)
+> Simulasi Monte Carlo
+
+   | Target: Bisa membuat prediksi dan analisis data dengan valid.
+
+10. Matematika Tingkat Mahir (Advanced Math)
+
+   | Level: Matematika murni, riset, teknologi tinggi
+
+> Teori bilangan
+> Teori graf dan kombinatorika
+> Matematika diskrit (logika, himpunan, algoritma)
+> Teori grup, teori cincin, teori medan
+> Analisis real dan kompleks
+> Topologi dasar
+> Matematika numerik
+> Optimasi ( Linear Programing, Convex Optimization)
+
+    | Target: Memahami dan mengembangkan teknologi tingkat tinggi (AI, Kriptografi, roket,dll)
+
+
+11 Platform Belajar matematika
+
+> Youtube: 3Blue1Brown, Mathologer, Khan Academy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
