@@ -4,7 +4,7 @@
    | Level: Wajib dikuasai 100%
 
 -> Operasi dasar: +, -, x  ✅
--> Bilangan bulat, pecahan, desimal
+-> Bilangan bulat, pecahan, desimal ✅
 -> Faktor, kelipatan, KPK, FPB
 -> Bilangan negatif dan positif
 -> Pangkat dan akar sederhana 
