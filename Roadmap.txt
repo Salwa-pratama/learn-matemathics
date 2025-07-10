@@ -3,7 +3,7 @@
 1. Fondasi Dasar (Basic arithmetic)
    | Level: Wajib dikuasai 100%
 
--> Operasi dasar: +, -, x, :
+-> Operasi dasar: +, -, x  ✅
 -> Bilangan bulat, pecahan, desimal
 -> Faktor, kelipatan, KPK, FPB
 -> Bilangan negatif dan positif
